@@ -3,4 +3,5 @@ RENCANA USAHA HERRY
 - Bengkel
 - BRI link
 - Warung makan
+ * Masakan padang
 - Pangkalan Gas LPG
